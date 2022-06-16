@@ -1,5 +1,3 @@
-//Karol Rosłoniec, nr indeksu: 153558
-
 #include <iostream>
 #include <ctime>
 #include <iomanip>
